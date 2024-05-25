@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticalTask</string>
+    <string name="hint_user_name">User name</string>
+    <string name="hint_password">Password</string>
+    <string name="label_title">Title :</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_edit">Edit</string>
+    <string name="label_add_product">Add Product</string>
+    <string name="label_description">Description</string>
+    <string name="label_product_title">Product title</string>
+    <string name="hint_search">Search</string>
+</resources>
